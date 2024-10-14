@@ -9,6 +9,7 @@ Please respect its conditions in order to use the Portfolio.
 Terms of use: 
 -Do not edit the README.MD (Or just add your name)
 -Do not change the GITHUB credit at the end of the page.
+-Change the branch to Master to download the files =)
 
 Thank you for taking the time to read this message.
 Good use to you.
